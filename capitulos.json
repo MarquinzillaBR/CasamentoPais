@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "DISCO 1",
+    "arquivo": "videos/DISCO1.mp4"
+  },
+  {
+    "titulo": "DISCO 2",
+    "arquivo": "/videos/DISCO2.mp4"
+  },
+  {
+    "titulo": "-",
+    "arquivo": "/videos/entrada_noivos.mp4"
+  }
+]
